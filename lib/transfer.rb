@@ -44,6 +44,7 @@ class Transfer
     else 
       nil 
     end 
+    binding.pry 
     end 
     
     
